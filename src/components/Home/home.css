@@ -1,0 +1,42 @@
+.bg-image{
+
+    background-image:url('../../Image/Rectangle\ 1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 648px;
+
+}
+
+
+img{
+    width: 100%;
+}
+a.navbar-brand img {
+    width: 160px;
+    margin-left: 70px;
+}
+.login {
+    color: #423b3b;
+    font-size: 19px;
+    background: #eac615;
+    border-radius: 11px;
+    padding: 8px 30px;
+    margin-right: 82px;
+}
+.mr-auto.navbar-nav {
+    width: 560px;
+    justify-content: flex-end;
+}
+.mr-auto.navbar-nav .nav-link {
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+nav.navbar.navbar-expand.navbar-dark {
+    background: #1e7e3469;
+}
+
+input.mr-sm-2.form-control {
+    width: 300px;
+}

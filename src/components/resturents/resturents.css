@@ -1,0 +1,17 @@
+.mainBox {
+    width: 621px;
+    overflow: hidden;
+    border: 1px solid #35b7c7;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+
+.image {
+    width: 150px;
+    float: left;
+}
+
+.content {
+    width: 438px;
+    float: right;
+}

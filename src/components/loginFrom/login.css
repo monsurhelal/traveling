@@ -1,0 +1,47 @@
+.signUp {
+    width: 330px;
+    margin: auto;
+    border: 1px solid;
+    padding: 20px;
+}
+
+.signUp input {
+    padding: 8px 0px;
+    width: 285px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
+
+.signUp input[type="button"] {
+    margin-top: 12px;
+    background: orange;
+}
+
+.signUp h1 {
+    font-size: 30px;
+}
+.signUp p {
+    text-align: center;
+    margin-top: 5px;
+}
+.buttons {
+    width: 300px;
+    margin: auto;
+}
+
+button.fbLogin,button.gLogin {
+    width: 291px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 26px;
+    color: orange;
+}
+
+button.fbLogin:focus {
+    border: none;
+    outline: none;
+}
+button.gLogin:focus {
+    border: none;
+    outline: none;
+}

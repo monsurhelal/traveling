@@ -1,0 +1,20 @@
+.wrapper {
+    width: 300px;
+    background: #0ba296;
+    padding: 18px;
+    border-radius: 8px;
+    float: left;
+    margin: 100px 20px;
+    color: white;
+}
+.main {
+    width: 1025px;
+    margin: auto;
+}
+button.button {
+    border: none;
+    padding: 5px 28px;
+    border-radius: 5px;
+    color: orange;
+    font-weight: 600;
+}
